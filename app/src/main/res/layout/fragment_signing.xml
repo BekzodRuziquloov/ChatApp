@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="@drawable/backgroind"
+    android:gravity="center"
+    tools:context=".fragments.SigningFragment">
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/same_bold"
+        android:gravity="center"
+        android:text="Google orqali ro'yxatdan otish"
+        android:textSize="30sp"
+        android:textColor="@color/white"
+        android:textStyle="italic"
+        />
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="100dp"
+        app:cornerRadius="20dp"
+        android:backgroundTint="#1A831E"
+        android:layout_margin="10dp"
+        android:layout_height="50dp"
+        android:id="@+id/btn_kirish"
+        android:text="Kirish"
+        />
+
+</LinearLayout>

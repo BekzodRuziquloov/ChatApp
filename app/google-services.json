@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364713608859",
+    "project_id": "chatapp-5802d",
+    "storage_bucket": "chatapp-5802d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364713608859:android:4519d91bfa86210707283e",
+        "android_client_info": {
+          "package_name": "space.beka.newchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364713608859-05mn8e9hom4hham03grqk05phu8rptj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnp-IothALOs2M76B8EZ625Ezi9MnTFfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364713608859-05mn8e9hom4hham03grqk05phu8rptj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
